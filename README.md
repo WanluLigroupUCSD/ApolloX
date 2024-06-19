@@ -1,2 +1,2 @@
 # ApolloX
-A HENP material design software
+A HENP material design software (Super NB!)
