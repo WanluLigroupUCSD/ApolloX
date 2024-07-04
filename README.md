@@ -1,2 +1,2 @@
 # ApolloX
-A HENP material design software for bulk and nanopartical structure.
+A HENP material design software for bulk and nanoparticle structure.
